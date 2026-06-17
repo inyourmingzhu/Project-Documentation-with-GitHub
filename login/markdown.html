@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> Project Documentation with GitHub </title>
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+</head>
+
+<body>
+    <h1> Example : MarkdownTag</h1>
+    <p> MarkdownTag is a simple tag can be used to render markdown markdown text.</p>
+    <h2> MarkdownTag result : ...</h2>
+    <div id="MDContent"></div>
+    <script>
+        var data = `### Marked in the browser\nRendered by **marked**.\n`;
+        document.getElementById('MDContent').innerHTML = marked.parse(data);
+    </script>
+</body>
+
+</html>
