@@ -42,7 +42,7 @@ Project-Documentation-with-GitHub
 └── README.md
 ```
 
-## MERMAiD ยังไม่แก้ไขเนื้อหาอะไรเลย
+## MERMAID ยังไม่แก้ไขเนื้อหาอะไรเลย
 ```mermaid
 graph TD
     Project[SALA STORE - Project Design Document]
