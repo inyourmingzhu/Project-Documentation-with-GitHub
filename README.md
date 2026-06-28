@@ -5,22 +5,30 @@
 
 ระบบ E - Commerce สำหรับร้านขายเสื้อผ้าแบรนด์ SALA รองรับ 3 บทบาทผู้ใช้งาน Customer . Staff , Admin
 
-## ฟีเจอร์
+## USER REQUITEMENT
 
-- หน้า Login
-- กรอก Username
-- กรอก Password
-- ปุ่ม Login
-- ปุ่ม Register
+### CUSTOMER
 
-## เทคโนโลยีที่ใช้ในโปรเจค
+- เพิ่มสินค้าลงตะกร้า
+- ค้นหาสินค้า
+- log in / register
+- check out
+- buy history
+- ยื่น ticket support (ขอความช่วยเหลือ/ติดต่อ support)
 
-- HTML5
-- CSS3
-- Git
-- GitHub
-- Sourcetree
-- markdown
+### ADMIN
+
+- add สินค้า
+- delete สินค้า
+- เพิ่มหมวดหมู่สินค้า
+- แก้ไขสินค้า
+- จัดการข้อมูลลูกค้า
+- dashboard
+
+### SUPPORT
+
+- ตอบ ticket ลูกค้า
+
 
 ## โครงสร้างโปรเจกต์
 
@@ -33,12 +41,6 @@ Project-Documentation-with-GitHub
 │
 └── README.md
 ```
-
-## วิธีใช้งาน
-
-1. Clone Repository
-2. เปิดไฟล์ login.html
-3. ทดสอบผ่าน Web Browser
 
 ## ผู้จัดทำ
 
