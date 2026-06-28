@@ -42,6 +42,33 @@ Project-Documentation-with-GitHub
 └── README.md
 ```
 
+## MERMAiD ยังไม่แก้ไขเนื้อหาอะไรเลย
+```mermaid
+graph TD
+    Project[SALA STORE - Project Design Document]
+
+    Features[ฟีเจอร์]
+    Tech[เทคโนโลยีที่ใช้ในโปรเจกต์]
+    Structure[โครงสร้างโปรเจกต์]
+
+    Project --> Features
+    Project --> Tech
+    Project --> Structure
+
+    Features --> F1[หน้า Login]
+    Features --> F2[กรอก Username / Password]
+    Features --> F3[ปุ่ม Login / Register]
+
+    Tech --> T1[HTML5 / CSS3]
+    Tech --> T2[Git / GitHub]
+    Tech --> T3[Sourcetree / Markdown]
+
+    Structure --> S1[folder: login]
+    Structure --> S2[file: README.md]
+    S1 --> S1_1[login.html]
+    S1 --> S1_2[markdown.html]
+```
+
 ## ผู้จัดทำ
 
 - ชื่อ : นางสาวภทรพร แซ่ลี้
