@@ -5,7 +5,7 @@
 
 ระบบ E - Commerce สำหรับร้านขายเสื้อผ้าแบรนด์ SALA รองรับ 3 บทบาทผู้ใช้งาน Customer . Staff , Admin
 
-## USER REQUITEMENT
+## USER REQUITEMENT โครง
 
 ### CUSTOMER
 
@@ -42,7 +42,7 @@ Project-Documentation-with-GitHub
 └── README.md
 ```
 
-## MERMAID ยังไม่แก้ไขเนื้อหาอะไรเลย
+## MERMAID โครง
 ```mermaid
 graph TD
     Project[SALA STORE - Project Design Document]
