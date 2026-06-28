@@ -1,8 +1,9 @@
-# Project Documentation with GitHub
+# SALA STORE - Project Design Document
+# Project of CSI204 SUMMER SEMESTER 3/2568
 
 ## รายละเอียดโปรเจกต์
 
-โปรเจกต์นี้จัดทำขึ้นเพื่อศึกษาการใช้งาน Git, GitHub และ Sourcetree ในการจัดการเวอร์ชันโค้ด และ เพื่อความสะดวกสบายการทำงาน
+ระบบ E - Commerce สำหรับร้านขายเสื้อผ้าแบรนด์ SALA รองรับ 3 บทบาทผู้ใช้งาน Customer . Staff , Admin
 
 ## ฟีเจอร์
 
