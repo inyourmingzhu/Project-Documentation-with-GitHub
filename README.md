@@ -4,10 +4,17 @@
 # Project of CSI204 SUMMER SEMESTER 3/2568
 
 ---
+<br>
+<br>
+<br>
 
 ## Project Details (รายละเอียดโปรเจกต์)
 
 ระบบ E - Commerce สำหรับร้านขายเสื้อผ้าแบรนด์ SALA รองรับ 3 บทบาทผู้ใช้งาน Customer . Staff , Admin
+
+<br>
+<br>
+<br>
 
 ---
 
@@ -29,7 +36,7 @@
 
 <div align="center">
 
-## Project Objectives (วัตถุประสงค์ของโปรเจกต์)
+## Project Objectives (วัตถุประสงค์ของโปรเจกต์) 
 
 </div>
 
