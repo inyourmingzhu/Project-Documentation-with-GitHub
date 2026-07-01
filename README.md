@@ -69,9 +69,6 @@
 ---
 
 <br>
-<br>
-<br>
-
 
 <div align="center">
 
@@ -89,21 +86,11 @@
 
 [💻 SYSTEM REQUIREMENTS](docs/system-requirements.md)
 
-</td>
-</tr>
-</table>
+---
 
+[FUNCTIONAL REQUIREMENTS](docs/functional-requirements.md)
 
-
-
-
-
-
-
-## FUNCTIONAL REQUIREMENTS (ความต้องการด้านฟังก์ชัน)
-
-
-
+---
 
 ## Non-Functional Requirements  (ความต้องการที่ไม่ใช่ฟังก์ชัน)
 
@@ -146,10 +133,9 @@
 ## PAIN POINT (ปัญหาที่พบ)
 
 
-
-
-
-
+</td>
+</tr>
+</table>
 
 
 
