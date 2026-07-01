@@ -1,4 +1,4 @@
-<div align="center">
+<div align="center" color="#B31D02">
 
 # SALA STORE - Project Design Document
 # Project of CSI204 SUMMER SEMESTER 3/2568
